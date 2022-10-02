@@ -1,0 +1,13 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Mamadou Balde
+  description: Install and configure Jenkins CI
+  company: Rackspace
+  license: Proprietary
+  min_ansible_version: 2.4
+  platforms:
+    - name: RHEL
+      versions:
+        - 7
