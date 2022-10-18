@@ -1,0 +1,6 @@
+---
+- hosts: role_jenkins
+  gather_facts: yes
+  become: true
+  roles:
+    - ras-jenkins-install
