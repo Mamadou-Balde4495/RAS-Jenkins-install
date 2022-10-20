@@ -1,5 +1,5 @@
 ---
-- hosts: ras-jenkins-install-test
+- hosts: all
   gather_facts: yes
   become: true
   roles:
