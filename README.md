@@ -1,4 +1,4 @@
-Installs Jenkins CI on RHEL 7
+Installs Jenkins CI on RHEL 7 and Amazon Linux2
 
 ## Requirements
 
