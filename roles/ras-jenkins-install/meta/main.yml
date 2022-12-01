@@ -11,3 +11,9 @@ galaxy_info:
     - name: RHEL
       versions:
         - 7
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
